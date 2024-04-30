@@ -59,3 +59,8 @@
 # print(value)
 
 # 11. Две переменные
+company1 = "Apple"
+company2 = "Samsung"
+
+count_length = len(company1 + company2)
+print(count_length)
