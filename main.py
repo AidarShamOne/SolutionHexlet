@@ -59,8 +59,44 @@
 # print(value)
 
 # 11. Две переменные
-company1 = "Apple"
-company2 = "Samsung"
+# company1 = "Apple"
+# company2 = "Samsung"
+#
+# count_length = len(company1 + company2)
+# print(count_length)
 
-count_length = len(company1 + company2)
-print(count_length)
+# 12. Программа с использванием функций abs()
+# num1 = 10
+# num2 = -13
+#
+# sum_two_numbers = abs(num1 + num2)
+# print(sum_two_numbers)
+
+# 13. Шестнадцатеричное значение переменной
+# number = 10.1234
+# print(hex(round(number)))
+
+# 14. Вернуть случайное число от 1-10
+
+# from random import randint
+#
+# print(randint(1, 10))
+
+# 15. Определить тип передаваемого аргумента
+
+# motto = 'Family, Duty, Honor'
+# print(type(motto))
+
+# 16. Данные, вводимые пользователями с лишними символами
+
+# first_name = '  Grigor   \n '
+# first_name = first_name.strip()
+# print(first_name)
+
+# 17. Цепочка методов
+
+# text = 'When \t\n you play a \t\n game of thrones you win or you die.'
+#
+# print(len(text[5:16:].strip()))
+
+# 18.
