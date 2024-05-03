@@ -141,4 +141,14 @@
 # print(trim_and_repeat('python', offset= 3))
 # print(trim_and_repeat('python'))
 
-# 23.
+# 23. Реализуйте функцию letter_multiply().
+
+# def letter_multiply(text: str, character: str, repead: int) -> str:
+#     repeat_character: str = text.replace(character, character * repead)
+#     return repeat_character
+#
+# print(letter_multiply('pythton', 'p', 5))
+
+# 24.
+
+
