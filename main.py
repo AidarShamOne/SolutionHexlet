@@ -99,4 +99,32 @@
 #
 # print(len(text[5:16:].strip()))
 
-# 18.
+# 18. Реализуйте функцию print_motto(), которая печатает на экран фразу Winter is coming:
+
+# def print_motto():
+#     text = 'Winter is coming'
+#     print(text)
+
+# 19. Определите функцию say_hurray_three_times()
+
+# def say_hurray_three_times():
+#     cry = 'hurray! hurray! hurray!'
+#     return cry
+
+# 20. Реализуйте функцию truncate()
+
+# def truncate(text, length):
+#     truncate_text = text[:length] + '...'
+#
+#     return truncate_text
+
+# 21.Реализуйте функцию get_hidden_card()
+
+# def get_hidden_card(credit_card, show_number = 4):
+#     hidden_credit_card = '*' * show_number + credit_card[-4:]
+#
+#     return hidden_credit_card
+#
+# print(get_hidden_card('1234567812345678', 3))
+
+# 22.
