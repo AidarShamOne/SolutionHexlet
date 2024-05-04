@@ -149,6 +149,14 @@
 #
 # print(letter_multiply('pythton', 'p', 5))
 
-# 24.
+# 24. Напишите функцию get_age_difference()
+#
+# # def get_age_difference(one_age, two_age):
+# #     calculating_difference = f"The age difference is {abs(one_age - two_age)}"
+# #
+# #     return calculating_difference
+# #
+# #
+# # print(get_age_difference(2004, 1992))
 
 
