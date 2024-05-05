@@ -149,17 +149,14 @@
 #
 # print(letter_multiply('pythton', 'p', 5))
 
-# 24. Реализуйте функцию has_upper_case(), которая определяет, содержит ли строка заглавные буквы
+# 24. Напишите функцию get_age_difference()
+#
+# # def get_age_difference(one_age, two_age):
+# #     calculating_difference = f"The age difference is {abs(one_age - two_age)}"
+# #
+# #     return calculating_difference
+# #
+# #
+# # print(get_age_difference(2004, 1992))
 
-# def has_upper_case(string):
-#     check_char = string.lower() != string
-#
-#     return check_char
-#
-#
-# print(has_upper_case('python'))
-# print(has_upper_case('PytHon'))
-# print(has_upper_case('QQQ'))
-# print(has_upper_case(''))
 
-# 25.
