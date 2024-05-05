@@ -168,3 +168,13 @@
 # print(has_upper_case('Python'))
 # print(has_upper_case(''))
 # print(has_upper_case('python'))
+
+# 26.Реализуйте функцию is_leap_year(), которая определяет, является ли год високосным
+# def is_leap_year(year: int)-> int:
+#     calculate_year = year % 400 == 0 or (year % 4 == 0 and not year % 100 == 0)
+#
+#     return calculate_year
+#
+# print(is_leap_year(2020))
+
+# 27.
