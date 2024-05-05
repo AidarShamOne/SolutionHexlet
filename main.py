@@ -177,4 +177,16 @@
 #
 # print(is_leap_year(2020))
 
-# 27.
+# 27.Реализуйте функцию string_or_not(), которая проверяет является ли переданный параметр строкой
+# def string_or_not(input_value):
+#     check_value = isinstance(input_value, str) and 'yes' or 'no'
+#
+#     return check_value
+#
+#
+# print(string_or_not('Hexlet'))
+# print(string_or_not(23))
+# print(string_or_not(''))
+# print(string_or_not(False))
+
+# 28
