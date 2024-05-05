@@ -149,6 +149,17 @@
 #
 # print(letter_multiply('pythton', 'p', 5))
 
-# 24.
+# 24. Реализуйте функцию has_upper_case(), которая определяет, содержит ли строка заглавные буквы
 
+# def has_upper_case(string):
+#     check_char = string.lower() != string
+#
+#     return check_char
+#
+#
+# print(has_upper_case('python'))
+# print(has_upper_case('PytHon'))
+# print(has_upper_case('QQQ'))
+# print(has_upper_case(''))
 
+# 25.
