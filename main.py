@@ -151,22 +151,23 @@
 
 # 24. Напишите функцию get_age_difference()
 #
-# # def get_age_difference(one_age, two_age):
-# #     calculating_difference = f"The age difference is {abs(one_age - two_age)}"
-# #
-# #     return calculating_difference
-# #
-# #def has_upper_case(string):
-# #     check_char = string.lower() != string
-# #
-# #     return check_char
-# #
-# # print(has_upper_case('pyThon'))
-# # print(has_upper_case('Python'))
-# # print(has_upper_case(''))
-# # print(has_upper_case('python'))
-# # print(get_age_difference(2004, 1992))
+#  def get_age_difference(one_age, two_age):
+#      calculating_difference = f"The age difference is {abs(one_age - two_age)}"
+#
+#      return calculating_difference
 
 # 25.Реализуйте функцию has_upper_case(), которая определяет, содержит ли строка заглавные буквы.
+# def has_upper_case(string):
+#      check_char = string.lower() != string
+#
+#      return check_char
+#
+# print(has_upper_case('pyThon'))
+# print(has_upper_case('Python'))
+# print(has_upper_case(''))
+# print(has_upper_case('python'))
+# print(get_age_difference(2004, 1992))
+
+
 
 #
