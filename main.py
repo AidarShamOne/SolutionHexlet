@@ -189,4 +189,15 @@
 # print(string_or_not(''))
 # print(string_or_not(False))
 
-# 28
+# 28.Реализуйте функцию normalize_url(), которая выполняет так называемую нормализацию данных
+def normalize_url(website_address):
+    input_address = website_address[7:]
+    if input_address == 'https://':
+        address = ''
+    elif input_address != 'https://':
+        address = 'https://'
+
+    return address
+
+print(normalize_url('https://kigy.com'))
+print(normalize_url('burzyan.ru'))
